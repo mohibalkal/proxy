@@ -1,0 +1,9 @@
+{
+  "name": "video-proxy-netlify",
+  "version": "1.0.0",
+  "description": "Video stream CORS proxy for Netlify",
+  "main": "netlify/functions/proxy.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
