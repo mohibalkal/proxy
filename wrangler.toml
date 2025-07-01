@@ -1,0 +1,3 @@
+name = "video-proxy"
+main = "proxy.js"
+compatibility_date = "2025-07-01"
